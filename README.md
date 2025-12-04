@@ -62,7 +62,7 @@ I specialized in helping businesses bring their ideas to life by:
 
 Here's a project I'm proud of: [**Trae-Route**](https://github.com/hrogerscrispin/TraeRoute-Management)
 
-Here's a project I'm working on right now: [**PerlandEngine**](https://github.com/PerlandDev/PerlandEngine)
+Projects I'm working on right now: [**PerlandEngine**](https://github.com/PerlandDev/PerlandEngine), [**UpNews**](https://github.com/hrogerscrispin/UpNews-App)
 
 
 
