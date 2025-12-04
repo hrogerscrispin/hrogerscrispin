@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 ### 🚀 About Me 
 
 I'm **Helen Rogers**, a Software Engineer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing, and maintaining innovative applications and solutions.
