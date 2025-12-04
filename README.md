@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/hrogerscrispin">
-    <img src="https://readme-typing-svg.demolab.com?font=consoles+Code&size=32&pause=800&color=1A82FF&width=1000&lines=Hi+there%F0%9F%91%8B,+welcome+to+my+profile!;Glad+to+see+you+here;Hope+you+enjoy+it!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=800&color=1A82FF&width=1000&lines=Hi+there%F0%9F%91%8B,+welcome+to+my+profile!;Glad+to+see+you+here;Hope+you+enjoy+it!" alt="Typing SVG">
   </a>
 </p>
 
