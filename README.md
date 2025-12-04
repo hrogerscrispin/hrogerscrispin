@@ -6,13 +6,13 @@
 </p>
 
 
-## 🚀 About Me 
+### 🚀 About Me 
 
 I'm **Helen Rogers**, a Software Engineer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing, and maintaining innovative applications and solutions.
 
+---
 
-
-## 💻 What I do
+### 💻 What I do
 
 I specialized in helping businesses bring their ideas to life by:
 - Designing and developing scalable APIs
@@ -20,9 +20,9 @@ I specialized in helping businesses bring their ideas to life by:
 - Creating reliable and efficient code by implementing `Clean Architecture` Principles
 - Building maintainable and well-structured backend solutions following best practices
 
+---
 
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:**  
 
