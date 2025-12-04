@@ -55,3 +55,25 @@ I specialized in helping businesses bring their ideas to life by:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&logoWidht=40)
 ![n8n](https://img.shields.io/badge/n8n-1A82FF?style=flat&logo=n8n&logoColor=white&logoWidht=40)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoWidht=40)
+
+---
+
+### ​​📈​ Statistics
+
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrogerscrispin&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrogerscrispin&layout=compact&theme=blue-green)
+
+---
+
+###  🤝 ​Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
+
+[![Website](https://img.shields.io/badge/Website-1A82FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.tuwebsite.com)
+
+
+
+
