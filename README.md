@@ -58,17 +58,16 @@ I specialized in helping businesses bring their ideas to life by:
 
 ---
 
-### ​​📈​ Statistics
-
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrogerscrispin&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrogerscrispin&layout=compact&theme=blue-green)
-
----
-
 ###  🤝 ​Let's Connect
 
 I'm always open to discuccing new opportunities or collaborations. Feel free to reach me out via:
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:hrogerscrispin@gmail.com)
-[![Chrome](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg)](https://www.tuwebsite.com)
+<a href="https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:hrogerscrispin@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+</a>
+<a href="https://www.tuwebsite.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="40" height="40" alt="Chrome"/>
+</a>
