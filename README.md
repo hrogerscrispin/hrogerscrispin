@@ -1,6 +1,4 @@
-## Hi there👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=1A82FF&width=600&lines=Helen+Rogers+-+Backend+Software+Engineer;Clean+Architecture+%7C+API+Design+%7C+Databases;Passionate+about+scalable+and+clean+code.)](https://github.com/hrogerscrispin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=1A82FF&width=600&lines=%24+Helen+Rogers;Backend+Software+Engineer;Clean+Architecture+%7C+API+Design;Building+scalable+backend+systems)](https://github.com/hrogerscrispin)
 
 I'm Helen Rogers, a Software Enginer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing and maintaining innovative applications and solutions.
 
