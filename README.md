@@ -58,10 +58,18 @@ I specialized in helping businesses bring their ideas to life by:
 
 ---
 
+### Featured Projects
+
+Here's a projec I'm proud of: 
+
+
+
+---
+
 ###  🤝 ​Let's Connect
 
 I'm always open to discuccing new opportunities or collaborations. Feel free to reach me out via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
-[![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://www.tuwebsite.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
+[![Website](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://www.tuwebsite.com)
