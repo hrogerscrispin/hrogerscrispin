@@ -1,8 +1,11 @@
 ## Hi there👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A82FF&width=550&lines=I'm+Helen+Rogers;Backend+Software+Engineer;Clean+Architecture+Enthusiast)](https://github.com/hrogerscrispin)
+
+
 I'm Helen Rogers, a Software Enginer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing and maintaining innovative applications and solutions.
 
----
+
 
 ## 💻 What I do
 
@@ -12,7 +15,7 @@ I specialized in helping businesses bring their ideas to life by:
 - Creating reliable and efficient code by implementing `Clean Architecture` Principles
 - Building maintainable and well-structured backend solutions following best practices
 
----
+
 
 ## 🛠️ Tech Stack
 
