@@ -61,7 +61,6 @@ I specialized in helping businesses bring their ideas to life by:
 ### ​​📈​ Statistics
 
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrogerscrispin&show_icons=true&theme=blue-green)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrogerscrispin&layout=compact&theme=blue-green)
 
 ---
@@ -70,6 +69,6 @@ I specialized in helping businesses bring their ideas to life by:
 
 I'm always open to discuccing new opportunities or collaborations. Feel free to reach me out via:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
-[![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://www.tuwebsite.com)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:hrogerscrispin@gmail.com)
+[![Chrome](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg)](https://www.tuwebsite.com)
