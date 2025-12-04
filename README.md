@@ -14,8 +14,8 @@ I'm **Helen Rogers**, a Software Engineer focused on Backend Development with a 
 ### 💻 What I do
 
 I specialized in helping businesses bring their ideas to life by:
-- Designing and developing scalable APIs
-- Working with relational and no relational databases and data-driven systems
+- Designing and developing scalable RESTful APIs
+- Working with SQL and NoSQL databases and data-driven systems
 - Creating reliable and efficient code by implementing `Clean Architecture` Principles
 - Building maintainable and well-structured backend solutions following best practices
 
