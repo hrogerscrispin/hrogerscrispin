@@ -62,12 +62,6 @@ I specialized in helping businesses bring their ideas to life by:
 
 I'm always open to discuccing new opportunities or collaborations. Feel free to reach me out via:
 
-<a href="https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="25" height="25" alt="LinkedIn"/>
-</a>
-<a href="mailto:hrogerscrispin@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" height="25" alt="Gmail"/>
-</a>
-<a href="https://www.tuwebsite.com">
-  <img src="https://img.icons8.com/color/48/chrome--v1.png" width="25" height="25" alt="Chrome"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
+[![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://www.tuwebsite.com)
