@@ -1,6 +1,6 @@
 ## Hi there👋
 
-![Helen Rogers](https://img.shields.io/badge/Helen_Rogers-Backend_Engineer-1A82FF?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=1A82FF&width=600&lines=Helen+Rogers+-+Backend+Software+Engineer;Clean+Architecture+%7C+API+Design+%7C+Databases;Passionate+about+scalable+and+clean+code.)](https://github.com/hrogerscrispin)
 
 I'm Helen Rogers, a Software Enginer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing and maintaining innovative applications and solutions.
 
