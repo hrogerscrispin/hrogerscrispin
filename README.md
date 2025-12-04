@@ -1,6 +1,6 @@
 ## Hi there👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A82FF&width=550&lines=I'm+Helen+Rogers;Backend+Software+Engineer;Clean+Architecture+Enthusiast)](https://github.com/hrogerscrispin)
+![terminal](https://github-readme-stats.vercel.app/api?username=hrogerscrispin&show_icons=false&theme=codeSTACKr)
 
 
 I'm Helen Rogers, a Software Enginer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing and maintaining innovative applications and solutions.
