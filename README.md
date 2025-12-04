@@ -63,11 +63,11 @@ I specialized in helping businesses bring their ideas to life by:
 I'm always open to discuccing new opportunities or collaborations. Feel free to reach me out via:
 
 <a href="https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="filter: invert(50%) sepia(89%) saturate(2476%) hue-rotate(182deg) brightness(94%) contrast(101%);"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="25" height="25" alt="LinkedIn"/>
 </a>
 <a href="mailto:hrogerscrispin@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" alt="Gmail" style="filter: invert(37%) sepia(93%) saturate(4582%) hue-rotate(348deg) brightness(94%) contrast(94%);"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" height="25" alt="Gmail"/>
 </a>
 <a href="https://www.tuwebsite.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="40" height="40" alt="Chrome" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(195deg) brightness(97%) contrast(97%);"/>
+  <img src="https://img.icons8.com/color/48/chrome--v1.png" width="25" height="25" alt="Chrome"/>
 </a>
