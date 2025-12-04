@@ -1,7 +1,6 @@
 ## Hi there👋
 
-![terminal](https://github-readme-stats.vercel.app/api?username=hrogerscrispin&show_icons=false&theme=codeSTACKr)
-
+![Helen Rogers](https://img.shields.io/badge/Helen_Rogers-Backend_Engineer-1A82FF?style=flat-square)
 
 I'm Helen Rogers, a Software Enginer focused on Backend Development with a strong academic foundation and hands-on experience in building, analyzing, designing and maintaining innovative applications and solutions.
 
