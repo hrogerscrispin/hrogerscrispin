@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=1A82FF&width=600&lines=%24+Helen+Rogers;Backend+Software+Engineer;Clean+Architecture+%7C+API+Design;Building+scalable+backend+systems)](https://github.com/hrogerscrispin)
-
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=800&color=1A82FF&width=800&lines=Hi+there,+welcome+to+my+profile!;Glad+to+see+you+here!)](https://github.com/hrogerscrispin)
+</p>
 
 I'm **Helen Rogers**, a Software Engineer focused on **Backend Development** with a strong academic foundation and hands-on experience in **building, analyzing, designing, and maintaining innovative applications and solutions**.
 
