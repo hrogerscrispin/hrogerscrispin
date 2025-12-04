@@ -1,5 +1,7 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=800&color=1A82FF&width=800&lines=Hi+there,+welcome+to+my+profile!;Glad+to+see+you+here!)](https://github.com/hrogerscrispin)
+  <a href="https://github.com/hrogerscrispin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=800&color=1A82FF&width=800&lines=Hi+there,+welcome+to+my+profile!;Glad+to+see+you+here!" alt="Typing SVG">
+  </a>
 </p>
 
 I'm **Helen Rogers**, a Software Engineer focused on **Backend Development** with a strong academic foundation and hands-on experience in **building, analyzing, designing, and maintaining innovative applications and solutions**.
