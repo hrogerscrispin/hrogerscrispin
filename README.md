@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/hrogerscrispin">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=32&pause=800&color=1A82FF&width=1000&lines=Hi+there%F0%9F%91%8B,+welcome+to+my+profile!;Glad+to+see+you+here;Hope+you+enjoy+it!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=34&pause=800&color=1A82FF&width=1000&lines=Hi+there%F0%9F%91%8B,+welcome+to+my+profile!;Glad+to+see+you+here;Hope+you+enjoy+it!" alt="Typing SVG">
   </a>
 </p>
 
@@ -74,4 +74,4 @@ I'm always open to discuccing new opportunities or collaborations. Feel free to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
-[![Website](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://www.tuwebsite.com)
+
