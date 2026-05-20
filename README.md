@@ -75,3 +75,9 @@ I'm always open to discussing new opportunities or collaborations. Feel free to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-rogers-crisp%C3%ADn-2985a92b9/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrogerscrispin@gmail.com)
 
+---
+
+
+
+**Stats**
+[![Your GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
