@@ -80,4 +80,4 @@ I'm always open to discussing new opportunities or collaborations. Feel free to 
 
 
 **Stats**
-[![Your GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![hrogerscrispin](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
