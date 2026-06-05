@@ -36,7 +36,7 @@ Software Engineer focused on **backend development** — designing scalable syst
   "runtimes":    [".NET", "Node.js"],
   "frameworks":  ["ASP.NET Core", "Express.js", "Gin"],
   "databases":   ["SQL Server", "PostgreSQL", "MongoDB", "Oracle", "Redis"],
-  "tools":       ["Docker", "GitHub", "n8n", "Postman"]
+  "tools":       ["Docker", "GitHub", "VS Code", "Postman", "Cursor", "Github Copilot"]
 }
 ```
 
