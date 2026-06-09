@@ -36,7 +36,7 @@ Software Engineer focused on **backend development** — designing scalable syst
   "runtimes":    [".NET", "Node.js"],
   "frameworks":  ["ASP.NET Core", "Express.js", "Gin"],
   "databases":   ["SQL Server", "PostgreSQL", "MongoDB", "Oracle", "Redis"],
-  "tools":       ["Docker", "GitHub", "VS Code", "Postman", "Cursor", "Github Copilot"]
+  "tools":       ["Docker", "GitHub", "n8n", "Postman"]
 }
 ```
 
@@ -79,10 +79,10 @@ Software Engineer focused on **backend development** — designing scalable syst
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚌 [**TraeRoute-Management**](https://github.com/hrogerscrispin/TraeRoute-Management) | Sistema de gestión de horarios y rutas de transporte escolar. Proyecto de Grado · Abril 2025 | React.js · C# |
-| 📰 [**UpNews**](https://github.com/hrogerscrispin/upnews-management-project) | Sistema de gestión de noticias — backend API, SPA y Admin Panel | C# · NodeJS · React.sj |
-| 🤖 [**Stakeholder Insights**](https://github.com/hrogerscrispin/stakeholder-insights) | Aplicación web impulsada por IA que transforma solicitudes no estructuradas de las partes interesadas en insights empresariales estructurados | NodeJS · React.js |
-| 💰 [**Calculadora de Préstamos**](https://github.com/hrogerscrispin/calculadora-cuotas-prestamos) | Calculadora de cuotas para préstamos — ASP.NET Web API MVC con SQL Server | C# |
+| 🚌 [**TraeRoute-Management**](https://github.com/hrogerscrispin/TraeRoute-Management) | School transportation schedule and route management system. Senior Project · April 2025 | React.js · C# |
+| 📰 [**UpNews**](https://github.com/hrogerscrispin/upnews-management-project) | News management system — backend API, SPA and Admin Panel | C# · NodeJS · React.sj |
+| 🤖 [**Stakeholder Insights**](https://github.com/hrogerscrispin/stakeholder-insights) | AI-powered web app that transforms unstructured stakeholder requests into structured business insights | NodeJS · React.js |
+| 💰 [**Calculadora de Préstamos**](https://github.com/hrogerscrispin/calculadora-cuotas-prestamos) | Loan installment calculator — ASP.NET Web API MVC with SQL Server | C# |
 
 <!-- ---
 
