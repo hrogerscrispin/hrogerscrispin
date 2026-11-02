@@ -79,10 +79,10 @@ Software Engineer focused on **backend development** — designing scalable syst
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚌 [**TraeRoute-Management**](https://github.com/hrogerscrispin/TraeRoute-Management) | School transportation schedule and route management system. Senior Project · April 2025 | React.js · C# |
-| 📰 [**UpNews**](https://github.com/hrogerscrispin/upnews-management-project) | News management system — backend API, SPA and Admin Panel | C# · NodeJS · React.sj |
-| 🤖 [**Stakeholder Insights**](https://github.com/hrogerscrispin/stakeholder-insights) | AI-powered web app that transforms unstructured stakeholder requests into structured business insights | NodeJS · React.js |
-| 💰 [**Calculadora de Préstamos**](https://github.com/hrogerscrispin/calculadora-cuotas-prestamos) | Loan installment calculator — ASP.NET Web API MVC with SQL Server | C# |
+| [**TraeRoute-Management**](https://github.com/hrogerscrispin/TraeRoute-Management) | School transportation schedule and route management system. Senior Project · April 2025 | React.js · C# |
+| [**UpNews**](https://github.com/hrogerscrispin/upnews-management-project) | News management system — backend API, SPA and Admin Panel | C# · NodeJS · React.sj |
+| [**Stakeholder Insights**](https://github.com/hrogerscrispin/stakeholder-insights) | AI-powered web app that transforms unstructured stakeholder requests into structured business insights | NodeJS · React.js |
+| [**Calculadora de Préstamos**](https://github.com/hrogerscrispin/calculadora-cuotas-prestamos) | Loan installment calculator — ASP.NET Web API MVC with SQL Server | C# |
 
 <!-- ---
 
